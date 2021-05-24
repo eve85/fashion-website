@@ -12,4 +12,4 @@ Inspired by:
 
 [https://mettiforssell.com/](https://mettiforssell.com/)
 
-Designed By: Roman Tuomisto
+Designed By: Evelina Muljar
